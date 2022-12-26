@@ -1,0 +1,5 @@
+﻿  UT_8.1.1.cpp
+C:\Users\darin\source\repos\Lab_8.1.1\UT_8.1.1\UT_8.1.1.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\darin\source\repos\Lab_8.1.1\UT_8.1.1\UT_8.1.1.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\darin\source\repos\Lab_8.1.1\Lab_8.1.1\Source.cpp(28,13): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\darin\source\repos\Lab_8.1.1\Lab_8.1.1\Source.cpp(41,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
